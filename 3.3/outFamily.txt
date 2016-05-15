@@ -1,0 +1,6 @@
+family name:lippman	childred name:	danny; anna; 
+family name:smith	childred name:	john; henry; frieda; 
+family name:franz
+family name:orlen	childred name:	orley; 
+family name:renier	childred name:	alphonse; lou; brodie; 
+
